@@ -1,0 +1,9 @@
+{
+  "name": "BNAPP Calendar – בנימין וננה",
+  "short_name": "BN Calendar",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#fbbf24",
+  "icons": []
+}
